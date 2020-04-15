@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74950537-01fe-42d5-95c7-c31ee01825df" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SearchTest/Fraemworks/Drivers.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SearchTest/Fraemworks/Settings.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SearchTest/Fraemworks/Wait.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SearchTest/PageObjects/MainPage.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SearchTest/PageObjects/POBase.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SearchTest/PageObjects/SearchPage.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SearchTest/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SearchTest/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SearchTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SearchTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchTest/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +91,7 @@
       <workItem from="1586530444765" duration="2227000" />
       <workItem from="1586549869086" duration="2528000" />
       <workItem from="1586860041041" duration="2731000" />
-      <workItem from="1586950448060" duration="8101000" />
+      <workItem from="1586950448060" duration="8913000" />
     </task>
     <servers />
   </component>

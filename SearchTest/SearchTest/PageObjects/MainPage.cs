@@ -15,13 +15,12 @@ namespace SearchTest.PageObjects
             Driver.FindElement(SearchArea).Clear();
             Driver.FindElement(SearchArea).SendKeys(value);
             Driver.FindElement(SearchArea).SendKeys(Keys.Tab);
-            Driver.FindElement(SearchButton).Click();
             return this;
         }
 
         public SearchPage SearchSmth()
         {
-            Driver.FindElement(SearchButton);
+            Driver.FindElement(SearchButton).Click();
             return new SearchPage(Driver);
         }
     }
