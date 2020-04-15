@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74950537-01fe-42d5-95c7-c31ee01825df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SearchTest/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SearchTest/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SearchTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SearchTest/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SearchTest/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/SearchTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/SearchTest.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/SearchTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/SearchTest.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchTest/obj/SearchTest.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/SearchTest.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchTest/obj/SearchTest.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/SearchTest.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchTest/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchTest/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +84,7 @@
       <workItem from="1586530444765" duration="2227000" />
       <workItem from="1586549869086" duration="2528000" />
       <workItem from="1586860041041" duration="2731000" />
+      <workItem from="1586950448060" duration="1651000" />
     </task>
     <servers />
   </component>
