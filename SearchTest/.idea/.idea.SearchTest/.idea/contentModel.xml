@@ -18,6 +18,7 @@
         <e p="bin" t="ExcludeRecursive" />
         <e p="Fraemworks" t="Include">
           <e p="Drivers.cs" t="Include" />
+          <e p="Selenium.cs" t="Include" />
           <e p="Settings.cs" t="Include" />
           <e p="Wait.cs" t="Include" />
         </e>
@@ -35,6 +36,7 @@
         </e>
         <e p="Program.cs" t="Include" />
         <e p="SearchTest.csproj" t="IncludeRecursive" />
+        <e p="SearchValidationTest.cs" t="Include" />
       </e>
       <e p="SearchTest.sln" t="IncludeFlat" />
     </e>

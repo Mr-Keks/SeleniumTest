@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74950537-01fe-42d5-95c7-c31ee01825df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SearchTest/Fraemworks/Selenium.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchTest/SearchValidationTest.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SearchTest/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SearchTest/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SearchTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SearchTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchTest/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/SearchTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/SearchTest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/SearchTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/SearchTest.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,12 +24,14 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/SearchTest/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SearchTest/SearchValidationTest.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SearchTest/Fraemworks/Drivers.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SearchTest/Fraemworks/Settings.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SearchTest/Fraemworks/Wait.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SearchTest/PageObjects/SearchPage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SearchTest/PageObjects/MainPage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/SearchTest/PageObjects/POBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SearchTest/Fraemworks/Selenium.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -29,9 +41,11 @@
         <option value="$PROJECT_DIR$/SearchTest/Fraemworks/Settings.cs" />
         <option value="$PROJECT_DIR$/SearchTest/Fraemworks/Driver.cs" />
         <option value="$PROJECT_DIR$/SearchTest/Fraemworks/Drivers.cs" />
-        <option value="$PROJECT_DIR$/SearchTest/PageObjects/MainPage.cs" />
         <option value="$PROJECT_DIR$/SearchTest/PageObjects/SearchPage.cs" />
+        <option value="$PROJECT_DIR$/SearchTest/PageObjects/MainPage.cs" />
         <option value="$PROJECT_DIR$/SearchTest/Program.cs" />
+        <option value="$PROJECT_DIR$/SearchTest/Fraemworks/Selenium.cs" />
+        <option value="$PROJECT_DIR$/SearchTest/SearchValidationTest.cs" />
       </list>
     </option>
   </component>
@@ -91,7 +105,7 @@
       <workItem from="1586530444765" duration="2227000" />
       <workItem from="1586549869086" duration="2528000" />
       <workItem from="1586860041041" duration="2731000" />
-      <workItem from="1586950448060" duration="8913000" />
+      <workItem from="1586950448060" duration="11494000" />
     </task>
     <servers />
   </component>
