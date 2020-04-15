@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="74950537-01fe-42d5-95c7-c31ee01825df" name="Default Changelist" comment="" />
+    <list default="true" id="74950537-01fe-42d5-95c7-c31ee01825df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SearchTest/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SearchTest/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SearchTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SearchTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchTest/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/SearchTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/SearchTest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/SearchTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/SearchTest.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchTest/obj/SearchTest.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/SearchTest.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchTest/obj/SearchTest.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/SearchTest.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchTest/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SearchTest/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/SearchTest/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -18,6 +37,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1aGJIw50UegTL9bxUldOlZvrrGj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,6 +46,7 @@
   <component name="PropertiesComponent">
     <property name="Rider.SolutionExplorerActivator" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -33,6 +54,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="RiderNUnitUnitTestingPageId" />
   </component>
   <component name="RunManager" selected=".NET Project.SearchTest">
     <configuration name="SearchTest" type="DotNetProject" factoryName=".NET Project">
@@ -68,6 +90,8 @@
       <workItem from="1586362998271" duration="171000" />
       <workItem from="1586512286101" duration="2519000" />
       <workItem from="1586530444765" duration="2227000" />
+      <workItem from="1586549869086" duration="2528000" />
+      <workItem from="1586860041041" duration="2731000" />
     </task>
     <servers />
   </component>
@@ -76,4 +100,31 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="315" y="187" key="#SearchTest" timestamp="1586861975800">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="315" y="187" key="#SearchTest/0.0.1920.1080/-1280.-78.1280.1024@0.0.1920.1080" timestamp="1586861975800" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1586860352156">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080/-1280.-78.1280.1024@0.0.1920.1080" timestamp="1586860352156" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1586551162850">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080/-1280.-78.1280.1024@0.0.1920.1080" timestamp="1586551162850" />
+  </component>
 </project>

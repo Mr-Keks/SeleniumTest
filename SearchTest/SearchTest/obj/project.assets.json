@@ -3917,11 +3917,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\level\\Desktop\\SearchTest\\SearchTest\\SearchTest.csproj",
+      "projectUniqueName": "C:\\Users\\level\\Desktop\\Git\\SeleniumTest\\SearchTest\\SearchTest\\SearchTest.csproj",
       "projectName": "SearchTest",
-      "projectPath": "C:\\Users\\level\\Desktop\\SearchTest\\SearchTest\\SearchTest.csproj",
+      "projectPath": "C:\\Users\\level\\Desktop\\Git\\SeleniumTest\\SearchTest\\SearchTest\\SearchTest.csproj",
       "packagesPath": "C:\\Users\\level\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\level\\Desktop\\SearchTest\\SearchTest\\obj\\",
+      "outputPath": "C:\\Users\\level\\Desktop\\Git\\SeleniumTest\\SearchTest\\SearchTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\level\\AppData\\Roaming\\NuGet\\NuGet.Config",
