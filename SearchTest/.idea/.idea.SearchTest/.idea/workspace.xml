@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74950537-01fe-42d5-95c7-c31ee01825df" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SearchTest/Fraemworks/Drivers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchTest/Fraemworks/Settings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchTest/Fraemworks/Wait.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchTest/PageObjects/MainPage.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchTest/PageObjects/POBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SearchTest/PageObjects/SearchPage.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SearchTest/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SearchTest/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SearchTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SearchTest/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SearchTest/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/SearchTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/SearchTest.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/SearchTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/SearchTest.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/bin/Debug/netcoreapp3.1/nunit_random_seed.tmp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.dll" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SearchTest/obj/Debug/netcoreapp3.1/SearchTest.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,10 +22,23 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/SearchTest/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SearchTest/Fraemworks/Drivers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SearchTest/Fraemworks/Settings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SearchTest/Fraemworks/Wait.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SearchTest/PageObjects/SearchPage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SearchTest/PageObjects/MainPage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SearchTest/PageObjects/POBase.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/SearchTest/PageObjects/POBase.cs" />
+        <option value="$PROJECT_DIR$/SearchTest/Fraemworks/Wait.cs" />
+        <option value="$PROJECT_DIR$/SearchTest/Fraemworks/Settings.cs" />
+        <option value="$PROJECT_DIR$/SearchTest/Fraemworks/Driver.cs" />
+        <option value="$PROJECT_DIR$/SearchTest/Fraemworks/Drivers.cs" />
+        <option value="$PROJECT_DIR$/SearchTest/PageObjects/MainPage.cs" />
+        <option value="$PROJECT_DIR$/SearchTest/PageObjects/SearchPage.cs" />
         <option value="$PROJECT_DIR$/SearchTest/Program.cs" />
       </list>
     </option>
@@ -84,7 +99,7 @@
       <workItem from="1586530444765" duration="2227000" />
       <workItem from="1586549869086" duration="2528000" />
       <workItem from="1586860041041" duration="2731000" />
-      <workItem from="1586950448060" duration="1651000" />
+      <workItem from="1586950448060" duration="8101000" />
     </task>
     <servers />
   </component>
@@ -111,9 +126,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="315" y="187" key="#SearchTest/0.0.1920.1080/-1280.-78.1280.1024@0.0.1920.1080" timestamp="1586861975800" />
-    <state x="461" y="182" key="SettingsEditor" timestamp="1586860352156">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="-998" y="95" key="SettingsEditor" timestamp="1586952547536">
+      <screen x="-1280" y="-78" width="1280" height="1024" />
     </state>
+    <state x="-998" y="95" key="SettingsEditor/0.0.1920.1080/-1280.-78.1280.1024@-1280.-78.1280.1024" timestamp="1586952547536" />
     <state x="461" y="182" key="SettingsEditor/0.0.1920.1080/-1280.-78.1280.1024@0.0.1920.1080" timestamp="1586860352156" />
     <state x="616" y="250" key="run.anything.popup" timestamp="1586551162850">
       <screen x="0" y="0" width="1920" height="1080" />
